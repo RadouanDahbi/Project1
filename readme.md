@@ -1,3 +1,3 @@
 Création d'un site web.
 
-Thème : Ninja 
+Thème : Ninja de Konoha 
